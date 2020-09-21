@@ -10,7 +10,7 @@
   echo '<h1>Hello there!</h1>';
 
 ?>
-<p>Updated content</p>
+<p>Updated content again</p>
 
 </body>
 </html> 
